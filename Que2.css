@@ -1,0 +1,23 @@
+/* Base styles for all paragraphs */
+.paragraph {
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+/* Styles for the first paragraph */
+.block1 {
+    background-color: #f2f2f2;
+    color: #333;
+}
+
+/* Styles for the second paragraph */
+.block2 {
+    background-color: #ffc107;
+    color: #333;
+}
+
+/* Styles for the third paragraph */
+.block3 {
+    background-color: #007bff;
+    color: #fff;
+}
